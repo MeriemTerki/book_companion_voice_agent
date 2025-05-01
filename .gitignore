@@ -1,0 +1,13 @@
+# Virtual environment
+audiobook_env/
+
+# Environment variables file
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other common ignores
+*.log
+.DS_Store

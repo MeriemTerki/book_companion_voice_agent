@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pinecone-client
+langchain
+langchain-community
+langchain-core
+groq
+requests
+pyaudio
+deepgram-sdk
+python-dotenv
+rich
+cohere
